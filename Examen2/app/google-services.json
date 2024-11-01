@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "940884256003",
+    "project_id": "examenray-2161c",
+    "storage_bucket": "examenray-2161c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940884256003:android:7e27f0ca15e9c3268cf536",
+        "android_client_info": {
+          "package_name": "com.example.examenlogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaRf-zGjgrSOzUSGUKYIdboH5rbLr0dIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
